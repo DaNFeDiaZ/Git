@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    class Class1
+    class Class1dePrueba
     {
+        public void claseDeprueba()
+        {
+
+            Console.WriteLine("Probando");
+
+        }
     }
 }
