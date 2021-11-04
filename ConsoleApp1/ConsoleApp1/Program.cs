@@ -8,6 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Esto es un ensayo");
             Console.WriteLine("Ensayo");
+            Console.WriteLine("nuevo ensayo");
         }
     }
 }
