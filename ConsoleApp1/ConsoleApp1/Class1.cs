@@ -11,7 +11,7 @@ namespace ConsoleApp1
         public void claseDeprueba()
         {
 
-            Console.WriteLine("Probando");
+            Console.WriteLine("Probando... 1,2,3 ");
 
         }
     }
